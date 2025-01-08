@@ -1,0 +1,5 @@
+pyinstaller
+pymssql
+PyQt5
+PyQt5-stubs
+requests
